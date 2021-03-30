@@ -1,0 +1,8 @@
+Step 1 - Decide what pizza youre making
+Step 2 - Get ingredients
+Step 3 - Prepare ingredients
+Step 4 - Assemble ingredients
+Step 5 - Cook assembled pizza
+Step 6 - Enjoy!
+git add . 
+git commit -m"steps to make a pizza"
